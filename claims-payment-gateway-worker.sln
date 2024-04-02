@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "claims-payment-gateway-worker", "claims-payment-gateway-worker\claims-payment-gateway-worker.csproj", "{B57E72FC-DC9A-49C0-9037-0A7969D3F39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57E72FC-DC9A-49C0-9037-0A7969D3F39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57E72FC-DC9A-49C0-9037-0A7969D3F39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57E72FC-DC9A-49C0-9037-0A7969D3F39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57E72FC-DC9A-49C0-9037-0A7969D3F39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C9184EA-895D-42AB-A747-C156C53513E6}
+	EndGlobalSection
+EndGlobal
