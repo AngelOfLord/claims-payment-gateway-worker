@@ -43,7 +43,7 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
-
+  workflow_dispatch: # Enables the manual run button
 jobs:
 
   build:
